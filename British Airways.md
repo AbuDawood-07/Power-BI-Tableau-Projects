@@ -3,7 +3,7 @@
 A brief description of what this project does and who it's for
 
 ## British Airways Service Ratings Dashboard
-[Dashboard Link](https://public.tableau.com/app/profile/dawood3998/viz/British_Aireways_Analysis/Dashboard1?publish=yes)
+[Dashboard Link] (https://public.tableau.com/app/profile/dawood3998/viz/British_Aireways_Analysis/Dashboard1?publish=yes)
 
 ## Problem Statement
 - This dashboard aims to provide insights into British Airways' customer service performance. It helps the airline assess various service aspects such as cabin staff service, entertainment, food and beverages, ground service, seat comfort, and overall value for money. By understanding customer ratings across different parameters, the airline can identify areas for improvement and enhance customer satisfaction. The dashboard also evaluates average ratings by month, country, aircraft, traveler type, and seat type.
